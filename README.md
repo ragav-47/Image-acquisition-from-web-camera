@@ -29,6 +29,9 @@ Use imshow to show the video
 ### Step 5:
 End the program and close the output video windows by pressing 'q'.
 
+<br/>
+<br/>
+
 ## Program:
 ``` Python
 ### Developed By: Vijayaragavan ARR
@@ -119,6 +122,14 @@ cv2.destroyAllWindows()
 ### iii) Display the video by resizing the window
 
 ![Screenshot (15)](https://user-images.githubusercontent.com/75235488/161477060-b9312bb4-3ce7-4f12-8b4d-fadb1516a2cc.png)
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### iv) Rotate and display the video
 
